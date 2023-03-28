@@ -1,2 +1,1 @@
-# task
- JSON - XML converter project 
+# JSON - XML converter project for JetBrains Academy
